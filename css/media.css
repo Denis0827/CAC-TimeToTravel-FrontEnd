@@ -68,23 +68,23 @@
     }
 
     .main_titulo {
-        padding-top: 3%;
+        padding-top: 10%;
         color: var(--blanco);
         font-size: 5vw;
     }
 
     .main_subtitulo {
-        padding-top: 2vh;
+        padding-top: 2vw;
         color: var(--blanco);
         font-size: 2vw;
     }
 
     .main_empezar {
         text-decoration: none;
-        margin-top: 3vh;
-        margin-bottom: 3vh;
+        margin-top: 2vw;
+        margin-bottom: 6vw;
         background-color: orange;
-        padding: 1.4vh 1.8vw;
+        padding: 1vw 1.8vw;
         color: var(--blanco);
         font-size: 2vw;
         /* 1.4rem; */
